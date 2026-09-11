@@ -29,11 +29,11 @@
     { "item": "4 min", "price": "L$3500" },
     { "item": "7 min", "price": "L$6500" },
     { "comment": ""},
-    { "subtitle": "Patterns (65 sec)" },
+    { "subtitle": "Patterns (2 min)" },
     { "minititle": "" },
-    { "item": "wave", "price": "L$1400" },
-    { "item": "pulse", "price": "L$1500" },
-    { "item": "fireworks", "price": "L$1700" },
-    { "item": "earthquake", "price": "L$1800" },
+    { "item": "wave", "price": "L$2000" },
+    { "item": "pulse", "price": "L$2100" },
+    { "item": "fireworks", "price": "L$2200" },
+    { "item": "earthquake", "price": "L$2300" },
     { "comment": ""}
 ]
