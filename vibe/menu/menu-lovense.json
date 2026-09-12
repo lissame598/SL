@@ -31,9 +31,9 @@
     { "comment": ""},
     { "subtitle": "Patterns (2 min)" },
     { "minititle": "" },
-    { "item": "wave", "price": "L$2000" },
-    { "item": "pulse", "price": "L$2100" },
-    { "item": "fireworks", "price": "L$2200" },
-    { "item": "earthquake", "price": "L$2300" },
+    { "item": "wave", "price": "L$2400" },
+    { "item": "pulse", "price": "L$2500" },
+    { "item": "fireworks", "price": "L$2700" },
+    { "item": "earthquake", "price": "L$2800" },
     { "comment": ""}
 ]
