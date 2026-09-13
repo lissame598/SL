@@ -35,5 +35,10 @@
     { "item": "pulse", "price": "L$2500" },
     { "item": "fireworks", "price": "L$2700" },
     { "item": "earthquake", "price": "L$2800" },
+    { "comment": ""},
+    { "subtitle": "Snipe the Dancer" },
+    { "minititle": "" },
+    { "item": "10 sec", "price": "L$100" },
     { "comment": ""}
+
 ]
